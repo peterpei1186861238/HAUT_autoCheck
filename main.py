@@ -3,7 +3,7 @@ from campus import CampusCard
 
 def main():
     #校内校外开关
-    mark = 1
+    mark = 0
     #定义变量
     success,failure=[],[]
     #sectets字段录入
